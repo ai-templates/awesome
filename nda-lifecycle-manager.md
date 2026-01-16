@@ -1,6 +1,6 @@
 # NDA Lifecycle Manager
 
-Use case: you want to manage NDAs as a **data system** (not a folder), and extract **meaningful insights from document terms** — not only stale counters like “# signed” or “avg cycle time”.
+Use case: you want to manage NDAs as a **data system** (not a folder), and extract **meaningful insights from document terms** - not only stale counters like “# signed” or “avg cycle time”.
 
 Template link:
 
