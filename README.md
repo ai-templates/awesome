@@ -29,7 +29,7 @@ Each entry aims to include:
 
 ### Legal
 
-- TODO
+-  [NDA Lifecycle Manager](./nda-lifecycle-manager.md)
 
 ---
 
