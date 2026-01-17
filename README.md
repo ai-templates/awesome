@@ -27,6 +27,11 @@ Each entry aims to include:
 
 ## Awesome templates
 
+### Operations
+
+-  [Contract Execution Time](./contract-execution-time.md)
+
+
 ### Legal
 
 -  [NDA Lifecycle Manager](./nda-lifecycle-manager.md)
