@@ -8,6 +8,7 @@ Curated, practical **AI workflow templates** you can actually run — with a str
 
 - [How to use this list](#how-to-use-this-list)
 - [Templates](#templates)
+  - [Operations](#operations)
   - [Legal](#legal)
 - [Contributing](#contributing)
 - [License](#license)
